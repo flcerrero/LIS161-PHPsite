@@ -56,7 +56,7 @@ if (isset($_GET['edit'])) {
 <hr>
 
 <a href="admin.php" role="button" class="btn btn-info btn-lg btn-block admin-text">Admin</a>
-<a href="home.php" role="button" class="btn btn-info btn-lg btn-block admin-text">Home</a>
+<a href="index.php" role="button" class="btn btn-info btn-lg btn-block admin-text">Home</a>
 <a href="history.php" role="button" class="btn btn-info btn-lg btn-block admin-text">About</a>
 <a href="#" role="button" class="btn btn-info btn-lg btn-block admin-text">Economy</a>
 <a href="resorts.php" role="button" class="btn btn-info btn-lg btn-block admin-text">Resorts</a>
