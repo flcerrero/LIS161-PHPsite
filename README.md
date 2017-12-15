@@ -59,8 +59,8 @@ Documentation	Friday, December 15, 2017<br>
 Submission	Friday, December 15, 2017<br>
 
 V.	Source Codes<br>
-•	HTML files
-•	Images
-•	CSS files
-•	PHP files
-•	Documentation
+•	HTML files<br>
+•	Images<br>
+•	CSS files<br>
+•	PHP files<br>
+•	Documentation<br>
