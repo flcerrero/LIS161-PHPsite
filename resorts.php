@@ -18,7 +18,7 @@
 				<div id="tanza-header">
 					<div class="row">
 					  <div id="hdrlogo">
-					    <img class="img-fluid" src="img/Tanza_logo.png">
+					    <img class="img-fluid" src="Tanza_logo.png">
 					  </div>
 					  <div id="hdrtitle">
 						<p class="hdrword">MUNICIPALITY OF TANZA</p>
@@ -73,13 +73,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/candi4.jpg" alt="First slide">
+      <img class="d-block w-100" src="candi4.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/candi5.jpg" alt="Second slide">
+      <img class="d-block w-100" src="candi5.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/candi6.jpg" alt="Third slide">
+      <img class="d-block w-100" src="candi6.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -106,13 +106,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/oasis1.jpg" alt="First slide">
+      <img class="d-block w-100" src="oasis1.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/oasis2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="oasis2.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/oasis3.jpg" alt="Third slide">
+      <img class="d-block w-100" src="oasis3.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -133,7 +133,7 @@
 This Cavite resort offers the largest themed Swimming Pool in the area, that will cater adults and loved by the kids. Also, Tanza Oasis Hotel stands as the premier meeting center for international clientele and businessman alike with meeting, convention and outdoor function space. You’ll experience superior luxury, subtle elegance and personalized services and
 much more.</p>
 <hr>
-<img src="img/amanda1.jpg" class="resortpic">
+<img src="amanda1.jpg" class="resortpic">
 <h3 class="resort-title">Amanda's Resort</h3>
 <p class="add"><i>248 Brgy. Santol, Tanza, Cavite</i><br>
  <a href="https://www.facebook.com/amandasresort/" class="links">Facebook</a> | 0917 968 7042</p><br>
@@ -198,11 +198,11 @@ document.getElementById('demo').innerHTML = Date().slice(0, -32)
 	<div class="col-md-4">
 				<b>Social Media</b><hr>
 			<a href="https://www.instagram.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/instagram.png" alt="instagram logo"></a>
+			<img class="img-fluid" id="socmed" src="instagram.png" alt="instagram logo"></a>
 			<a href="https://www.facebook.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/facebook.png" alt="facebook logo"></a>
+			<img class="img-fluid" id="socmed" src="facebook.png" alt="facebook logo"></a>
 			<a href="https://www.twitter.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/twitter.png" alt="twitter logo"></a>
+			<img class="img-fluid" id="socmed" src="twitter.png" alt="twitter logo"></a>
 		</div>
 	</div>
 	<p class="copyright">Copyright © 2017 All Rights Reserved | Municipality of Tanza</p>
