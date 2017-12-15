@@ -15,7 +15,7 @@ flcerrero@gmail.com<br>
 
 Intended User/Client:
 Since this is a website of a locality, its primary client would be the local government of Tanza since they will be handling it and will be responsible of the contents and posts on the website. Its target audience and users are the locals of Tanza since it will serve as an extension of the physical bulletin board in the municipal hall as well as other people interested in visiting the town. The website contains a guide of tourist spots and destinations to explore while visiting Tanza. It also has a message form where the community can send their queries and complaints to the municipality.<br>
-Site Design:<br>
+Site Design:<br><br>
 I.	Structure or Site Map<br>
 •	Home<br>
 •	About<br>
