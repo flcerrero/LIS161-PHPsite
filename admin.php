@@ -26,7 +26,7 @@ $_SESSION['warning'] = "You need to log-in to access this page";
 <!--HOVER DIV and TRIGGER DIV-->
 <div id="triggerdiv">
 <div id="hoverdiv">
-  <img class="img-fluid" src="img/Tanza_logo_admin.png"><br><br>
+  <img class="img-fluid" src="Tanza_logo_admin.png"><br><br>
 
   <!--PHP WELCOME MESSAGE AND LOGOUT BUTTON-->
   <div>
@@ -62,7 +62,7 @@ $_SESSION['warning'] = "You need to log-in to access this page";
         <div id="tanza-header">
           <div class="row">
             <div id="hdrlogo">
-              <img class="img-fluid" src="img/Tanza_logo.png">
+              <img class="img-fluid" src="Tanza_logo.png">
             </div>
             <div id="hdrtitle">
             <p class="hdrword">MUNICIPALITY OF TANZA</p>
