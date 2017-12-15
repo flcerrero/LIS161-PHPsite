@@ -39,26 +39,26 @@ o	Economy<br>
 o	Resorts<br>
 o	Contact Us<br>
   	Message Submissions<br>
-o	Registered Users<br>
-II.	Functional Requirements<br>
+o	Registered Users<br><br>
+II.	Functional Requirements<br><br>
 The website has a public side and admin side. Log in page is not included in the navigation bar for it to be exclusive to municipal employees for access. It also contains the link for sign up page. Signing up and logging in will both redirect to admin landing page.
 <br>
-An admin panel can be seen on the left side of the page. The admin/user side allows access to pages where message submissions via Contact Us page and sign up forms are displayed. Registered users can edit the recipient of a message so that it can be sorted out properly during search. A search page for registered users is also set up if one wants to search for admins from certain barangays or for a specific person.<br>
+An admin panel can be seen on the left side of the page. The admin/user side allows access to pages where message submissions via Contact Us page and sign up forms are displayed. Registered users can edit the recipient of a message so that it can be sorted out properly during search. A search page for registered users is also set up if one wants to search for admins from certain barangays or for a specific person.<br><br>
 
-User sign up, login, message submission through Contact Us page<br>
+User sign up, login, message submission through Contact Us page<br><br>
 
-III.	References
+III.	References<br>
 https://www.w3schools.com/
 http://getbootstrap.com/
-https://stackoverflow.com/
+https://stackoverflow.com/<br><br>
 IV.	Project Timeline
-Activities	Date
-Planning	Monday, December 4, 2017
-Development	Wednesday, December 6, 2017 to Thursday, December 14, 2017
-Documentation	Friday, December 15, 2017
-Submission	Friday, December 15, 2017
+Activities	Date<br>
+Planning	Monday, December 4, 2017<br>
+Development	Wednesday, December 6, 2017 to Thursday, December 14, 2017<br>
+Documentation	Friday, December 15, 2017<br>
+Submission	Friday, December 15, 2017<br>
 
-V.	Source Codes
+V.	Source Codes<br>
 •	HTML files
 •	Images
 •	CSS files
