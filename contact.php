@@ -21,7 +21,7 @@
 				<div id="tanza-header">
 					<div class="row">
 					  <div id="hdrlogo">
-					    <img class="img-fluid" src="img/Tanza_logo.png">
+					    <img class="img-fluid" src="Tanza_logo.png">
 					  </div>
 					  <div id="hdrtitle">
 						<p class="hdrword">MUNICIPALITY OF TANZA</p>
