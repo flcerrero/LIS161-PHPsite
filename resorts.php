@@ -5,7 +5,7 @@
 <title>Municipality of Tanza</title>
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Alef'>
 	<script src="script.js" type="text/javascript"></script>
