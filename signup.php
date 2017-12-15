@@ -5,7 +5,7 @@
 <title>Municipality of Tanza</title>
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Alef'>
 	<script src="script.js" type="text/javascript"></script>
@@ -18,7 +18,7 @@
 				<div id="tanza-header">
 					<div class="row">
 					  <div id="hdrlogo">
-					    <img class="img-fluid" src="img/Tanza_logo.png">
+					    <img class="img-fluid" src="Tanza_logo.png">
 					  </div>
 					  <div id="hdrtitle">
 						<p class="hdrword">MUNICIPALITY OF TANZA</p>
@@ -238,11 +238,11 @@ document.getElementById('demo').innerHTML = Date().slice(0, -32)
 	<div class="col-md-4">
 				<b>Social Media</b><hr>
 			<a href="https://www.instagram.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/instagram.png" alt="instagram logo"></a>
+			<img class="img-fluid" id="socmed" src="instagram.png" alt="instagram logo"></a>
 			<a href="https://www.facebook.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/facebook.png" alt="facebook logo"></a>
+			<img class="img-fluid" id="socmed" src="facebook.png" alt="facebook logo"></a>
 			<a href="https://www.twitter.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/twitter.png" alt="twitter logo"></a>
+			<img class="img-fluid" id="socmed" src="twitter.png" alt="twitter logo"></a>
 		</div>
 	</div>
 	<p class="copyright">Copyright © 2017 All Rights Reserved | Municipality of Tanza</p>
