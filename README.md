@@ -9,7 +9,7 @@ Official Website of Municipality of Tanza
 This project proposes an official website for the municipality of Tanza, Cavite. Tanza has a Weebly website but it is not being utilized and does not contain pertinent information regarding the locality. This project aims to provide a layout for the official site as well as possible contents of the municipal website.
 
 Developer:
-Fzaira L. Cerrero
+Fzaira L. Cerrero<br>
 0917-477-8442
 flcerrero@gmail.com
 
