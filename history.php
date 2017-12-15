@@ -16,7 +16,7 @@
 				<div id="tanza-header">
 					<div class="row">
 					  <div id="hdrlogo">
-					    <img class="img-fluid" src="img/Tanza_logo.png">
+					    <img class="img-fluid" src="Tanza_logo.png">
 					  </div>
 					  <div id="hdrtitle">
 						<p class="hdrword">MUNICIPALITY OF TANZA</p>
@@ -67,7 +67,7 @@
 			<li><a href="#stats">Statistics</a></li>
 		</ul>
 	<p id="history"><b>History</b></p>
-	<img id="featuredpic" src="img/church.jpg">
+	<img id="featuredpic" src="church.jpg">
 		<p>The historic town of Tanza where Gen. Emilio Aguinaldo took his oath as first President of the Republic at the convent of the Holy Cross Church lies at the northwest part of Cavite. Tanza occupies 7824.29 hectares representing 5.48% of the total land area of Cavite Province. The town is situated 33 kilometers south away from Manila and 13 kilometers away from Trece Martirez City.
 <br><br>
 The first class municipality is now experiencing rapid urban growth. Such  phenomenon is anticipated since much of its area covering 4758.20 hectares is characterized by flatlands, which is low susceptible to erosion and is recommended for high density urban development. Whereas the 2069.20 hectares gently sloping areas are appropriate for medium density urban development. Rapid urbanization indeed could be attributed to the housing projects and availability of low cost housing besides the existence of several industrial establishments and its proximity to Cavite Export Processing Zone. The operation of commercial establishments within the Poblacion and the escalating activities of commerce and trade at Daang Amaya I where Tanza Public Market and popular fast-food chains are perceptible is likewise a contributing factor.
@@ -183,11 +183,11 @@ document.getElementById('demo').innerHTML = Date().slice(0, -32)
 	<div class="col-md-4">
 			<b>Social Media</b><hr>
 			<a href="https://www.instagram.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/instagram.png" alt="instagram logo"></a>
+			<img class="img-fluid" id="socmed" src="instagram.png" alt="instagram logo"></a>
 			<a href="https://www.facebook.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/facebook.png" alt="facebook logo"></a>
+			<img class="img-fluid" id="socmed" src="facebook.png" alt="facebook logo"></a>
 			<a href="https://www.twitter.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/twitter.png" alt="twitter logo"></a>
+			<img class="img-fluid" id="socmed" src="twitter.png" alt="twitter logo"></a>
 		</div>
 	</div>
 	<p class="copyright">Copyright © 2017 All Rights Reserved | Municipality of Tanza</p>
