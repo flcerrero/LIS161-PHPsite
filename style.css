@@ -1,0 +1,488 @@
+* {
+  font-size: 15px;
+}
+
+/*default: header, navbar, etc.*/
+.wrapper {
+  background-color: #FFE29A;
+  z-index: 0;
+}
+
+.header {
+  padding: 2rem 1rem;
+    margin-bottom: 0.5rem;
+ background: linear-gradient(to bottom right, #60c9d6, white); /* Standard syntax */
+}
+
+#tanza-header {
+  width: 60%;
+  margin: 0 auto;
+  font-family: Alef;
+/*  display: flex; */
+}
+
+#hdrlogo {
+  margin-right: 1em;
+}
+
+.hdrword {
+  font-size: 3em !important;
+  font-weight: bold;
+  margin: 0;
+}
+
+#hdrtitle {
+  display: block;
+  padding-top: 1.5em;
+}
+/*end default*/
+
+/*Navbar*/
+
+#navMenu {
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+/*controls top parent box in navigation bar*/
+#navMenu ul {
+  margin: 0;
+    padding:0;
+    line-height:30px;
+    display: inline-block;
+    background: linear-gradient(to bottom, #eae8d7, white); /* Standard syntax */
+
+}
+
+#navMenu li {
+    margin:0;
+    list-style:none;
+    position:relative;
+    float:left;
+    border-left: 1px solid #fff;
+}
+
+#navMenu ul li {
+    position:relative;
+}
+
+#navMenu ul li a{
+    text-decoration:none;
+    height:auto;
+    width: auto;
+    display:block;
+    z-index: 4;
+    font-size: 20px !important;
+    line-height: 50px;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+#navMenu ul a {
+  padding: 0 2em;
+}
+
+#navMenu ul ul {
+    position:absolute;
+    visibility:hidden;
+    left: 0px;
+    width: 100%;
+        background: linear-gradient(to bottom, #eae8d7, white); /* Standard syntax */
+
+}
+
+#navMenu ul li:hover ul {
+    visibility:visible;
+}
+
+#navMenu ul li:hover ul li a:hover  {
+    color: red !important;
+    }
+
+.subnav>li>a {
+  width: 100%;
+  position: absolute;
+  visibility: hidden;
+  padding: 2px !important;
+  margin: 0;
+}
+
+/*end nav*/
+
+.boxes {
+  clear: both;
+  display: block;
+  background-color: blue;
+  text-align: center;
+}
+
+/*footer*/
+.socmed {
+  background-color: #B2BB91;
+  padding: 2px;
+  min-height: 5rem;
+  max-width: 300px;
+  display: inline-block;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background: #222;
+  position: absolute;
+}
+
+.footer {
+  margin-top: 10px;
+  padding: 5px;
+  background-color: #F7E4C6;
+  text-align: center; 
+}
+
+.copyright {
+  font-size: 13px !important;
+  margin-top: 30px;
+}
+
+/*end footer*/
+
+/*content: left content stuff*/
+
+.left-content {
+  width: 78%;
+  background-color: #FFC27F;
+  float: left;
+  margin: 5px;
+  padding: 20px 0;
+  border: 2px solid #382F32;
+}
+
+.news {
+  background-color: #668284;
+  padding: 20px 0;
+}
+
+.mdia {
+  padding: 20px;
+}
+
+.search, .time, .jobs {
+  width: 20%;
+  float: right;
+  margin: 10px 5px;
+}
+
+.jobheader {
+  width: 100%;
+  height: auto;
+  padding: 5px;
+  background-color: #5dbfcc;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px !important;
+}
+
+.joblist {
+  overflow: scroll;
+  height: 300px;
+  background-color: #ededed;
+  padding: 10px;
+}
+
+.jobtitle {
+  font-size: 18px !important;
+}
+
+.search {
+    width: 20%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    font-size: 16px !important;
+    background-color: white;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+.time {
+  background-color: #5dbfcc;
+}
+
+#newslogo {
+  width: 100px;
+  height: auto;
+  position: relative;
+}
+
+/*for contact_message.php body*/
+.fullcolumn {
+  width: 97%;
+  background-color: #FFC27F;
+  float: left;
+  margin: 10px 80px 10px 25px;
+  padding: 20px 0;
+  border: 2px solid #382F32;
+
+}
+
+@media (max-width: 800px) { /* Change this to 400px, 800px for demo purpose */
+.outer {
+  width: 100%;
+  display: flex;
+  flex-direction: column; /* For vertical placement of items */
+  }
+  .time {
+    order: 2;
+  }
+   .search {
+    order: 3;
+   }
+   .jobs {
+    order: 3;
+   }
+}
+
+.infotable {
+  width: 98%;
+  background-color: white;
+  margin: 10px 10px 0px 10px;
+  padding: 10px;
+}
+
+.tablecontent {
+  text-align: center;
+}
+
+.tablesearch {
+  background-color: white;
+  border-radius: 5px;
+  border: 2px;
+  width: 30%;
+  margin: 10px auto;
+  padding: 5px 60px;
+}
+
+
+
+/*end content*/
+
+#demo {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 8px;
+  font-size: 25px;
+}
+
+@media (max-width: 600px) {
+  #demo {
+    font-size: 15px;
+  }
+}
+/*featured video*/
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+  margin: 20px 10px 0 10px;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.vid, .news {
+   background-color: #FCF7D3;
+  margin: 5px;
+  padding: 20px 0;
+  height:500px;
+  overflow: scroll;
+  border: 2px solid #382F32;
+}
+
+.vidtitle {
+  background-color: #ddd8af;
+  width: 100%;
+  height: auto;
+  margin: .4em 0;
+  padding: 15px;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+  z-index: 4;
+}
+.vidword {
+  padding: 10px;
+}
+
+/*end featured vid*/
+
+/*resorts page*/
+.resort-title {
+  font-size: 20px !important;
+  text-align: center;
+}
+
+.add {
+  text-align: center;
+}
+
+#featuredpic {
+  float: right;
+  margin: 0 0 10px 10px;
+}
+
+.resortpic {
+background-color: yellow;
+border: 1px solid #000;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+height: auto;
+}
+
+.links {
+  color: blue;
+}
+
+/*end resort page*/
+
+.columned {
+    list-style-type: none;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;}
+
+/*FOR TRY.HTML ONLY (navar)*/
+#nva {
+  background-color: #F2F0DF;
+}
+
+nav.ul {
+  text-align: center !important;
+  position: initial !important;
+  left: 0px;
+}
+
+ul.nav>a{
+    display: inline-block;
+    font-size: 20px;
+    line-height: 50px;
+    padding: 0 2em;
+    border-left: 1px solid #fff;
+    -webkit-transition: all .3s ease;
+}
+ul.nav>a:hover{
+    background: rgba(255,255,255,.9);
+}
+
+/*end navbar*/
+
+/*sign in text alignment and format*/
+#signin {
+  text-align: center;
+}
+
+.signup {
+  text-align: left;
+  font-weight: 700;
+}
+
+/*sign up design from custom.css*/
+
+.signuppage {
+  width: 80%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: white;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+/*end custom.css*/
+
+/*admin*/
+.adminpage {
+  background-color: #f4cb9f;
+  padding: 5px;
+  height: auto;
+  width: 90%;
+  margin: auto;
+  text-align: center !important;
+}
+
+.admin-text {
+/*    color: #f4f4f4; */
+  font-size: 17px !important;
+  padding: .2rem;
+}
+/*admin end*/
+
+/*hover div*/
+#triggerdiv {
+  width: 15%;
+  height: 800px; 
+/*  border: 2px solid #382F32; */
+  z-index: 90 !important;
+  position: absolute;
+}
+
+#hoverdiv {
+  width: 15%;
+  height: auto; 
+  padding: 5px;
+  display: none;
+  text-align: center !important;
+  background-color: #FFC27F;
+  border: 2px solid #382F32;
+  position: fixed;
+}
+
+
+
+#triggerdiv:hover #hoverdiv{
+    display:block;
+    cursor:pointer;
+}
+/*end hover div*/
