@@ -16,7 +16,7 @@
 				<div id="tanza-header">
 					<div class="row">
 					  <div id="hdrlogo">
-					    <img class="img-fluid" src="img/Tanza_logo.png">
+					    <img class="img-fluid" src="Tanza_logo.png">
 					  </div>
 					  <div id="hdrtitle">
 						<p class="hdrword">MUNICIPALITY OF TANZA</p>
@@ -104,7 +104,7 @@ document.getElementById('demo').innerHTML = Date().slice(0, -32)
     <div class="mdia">
     <ul class="list-unstyled">
   <li class="media">
-    <img class="d-flex mr-3" src="img/tanza_centennial.jpg" alt="Tanza Centennial logo" id="newslogo">
+    <img class="d-flex mr-3" src="tanza_centennial.jpg" alt="Tanza Centennial logo" id="newslogo">
     <div class="media-body">
       <h5 class="mt-0 mb-1">Tanza celebrates its 100th year</h5>
       <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
@@ -113,7 +113,7 @@ document.getElementById('demo').innerHTML = Date().slice(0, -32)
   </li>
   <br>
   <li class="media my-4">
-    <img class="d-flex mr-3" src="img/cpg.png" alt="CPG" id="newslogo">
+    <img class="d-flex mr-3" src="cpg.png" alt="CPG" id="newslogo">
     <div class="media-body">
       <h5 class="mt-0 mb-1">CPG, Mitsubishi bares P2-B housing project in Tanza, Cavite</h5>
       <p>High-end real estate developer Century Properties Group Inc. (CPG) unveiled its P2-billion horizontal housing project in partnership with Mitsubishi Corp. that will cater to first time home buyers in the Philippines.</p>
@@ -122,7 +122,7 @@ document.getElementById('demo').innerHTML = Date().slice(0, -32)
   </li>
   <br>
   <li class="media">
-    <img class="d-flex mr-3" src="img/watertank.jpg" alt="Watertank" id="newslogo">
+    <img class="d-flex mr-3" src="watertank.jpg" alt="Watertank" id="newslogo">
     <div class="media-body">
       <h5 class="mt-0 mb-1">Piercing sound disturbs Cavite residents during Batangas quakes</h5>
 <p>The strong earthquakes that struck Batangas province on Saturday afternoon was mildly felt in Tanza town in Cavite province, but this piercing sound disturbed its villagers.
@@ -164,11 +164,11 @@ The loud scraping sound can be heard in this video shared by Luis Sebastian del 
 	<div class="col-md-4">
 				<b>Social Media</b><hr>
 			<a href="https://www.instagram.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/instagram.png" alt="instagram logo"></a>
+			<img class="img-fluid" id="socmed" src="instagram.png" alt="instagram logo"></a>
 			<a href="https://www.facebook.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/facebook.png" alt="facebook logo"></a>
+			<img class="img-fluid" id="socmed" src="facebook.png" alt="facebook logo"></a>
 			<a href="https://www.twitter.com" target="_blank">
-			<img class="img-fluid" id="socmed" src="img/twitter.png" alt="twitter logo"></a>
+			<img class="img-fluid" id="socmed" src="twitter.png" alt="twitter logo"></a>
 		</div>
 	</div>
 	<p class="copyright">Copyright © 2017 All Rights Reserved | Municipality of Tanza</p>
