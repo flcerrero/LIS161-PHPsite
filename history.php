@@ -30,7 +30,7 @@
 
 <div id="navMenu"> 
         <ul>
-          <li><a href="home.php">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li><a href="history.php">About</a></li>
           <li><a href="#">Economy</a>
             <ul class="sub-nav">
